@@ -1115,6 +1115,12 @@ section {
   margin-bottom: 20px;
 }
 
+.portfolio-details .portfolio-description h3 {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
@@ -1179,7 +1185,8 @@ section {
 .team .member .member-info h4 {
   font-weight: 700;
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 1.25rem;
+  margin-bottom: 15px;
   color: #222222;
 }
 
@@ -1191,8 +1198,10 @@ section {
 }
 
 .team .member .member-info p {
+  /*
   font-style: italic;
   font-size: 14px;
+  */
   line-height: 26px;
   color: #777777;
 }
